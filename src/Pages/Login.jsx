@@ -24,7 +24,7 @@ export default function Login() {
   return (
     <div>
       
-      <div className='w-full md:w-[96.25rem] mx-auto mt-[80px] md:mt-[122px] px-4 md:px-0 justify-between'>
+      <div className='w-full md:w-[96.25rem] mx-auto mt-[80px] md:mt-[122px] px-4 md:px-0 flex justify-between'>
                 <div className='flex flex-col w-[500px] mx-auto'>
                     <h1 className='w-full text-[54px] text-[#565656] font-bold text-center'>Hello <span className='text-teal-500 font-nunito tracking-[0.02em] leading-[70.75px]'>Again</span></h1>
                     <p className='text-[23.19px] font-normal font-nunito leading-[32.44px] tracking-[0.02em] text-[#7e7f88] text-center'>Welcome back you've been missed!</p>
